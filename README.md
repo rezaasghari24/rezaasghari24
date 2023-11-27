@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 
 ## Current Projects 🌐
 
-I'm currently engaged in several small personal projects to apply and enhance my frontend skills. These projects serve as my learning playground, and I'm excited to share more as they progress.
+I'm currently engaged in several small personal projects to apply and enhance my front-end skills. These projects serve as my learning playground, and I'm excited to share more as they progress.
 
 ## Learning Journey 🚴‍♂️
 
-My journey into frontend development has been both challenging and rewarding. I believe in continuous learning, and each project is an opportunity to explore new concepts and refine my skills.
+My journey into front-end development has been both challenging and rewarding. I believe in continuous learning, and each project is an opportunity to explore new concepts and refine my skills.
 
 ## How You Can Contribute 🤝
 
-If you've navigated the frontend learning path and have insights to share or if you're interested in contributing to my projects, your involvement is more than welcome! Check out the [Contribution Guide](CONTRIBUTING.md) for more details.
+If you've navigated the front-end learning path and have insights to share or if you're interested in contributing to my projects, your involvement is more than welcome! Check out the [Contribution Guide](CONTRIBUTING.md) for more details.
 
 ## Get in Touch 📬
 
